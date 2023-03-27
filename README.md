@@ -3,7 +3,7 @@
 </p>
 
 <div style="display: flex;">
-  <div style="flex-direction: row;">
+  <div style="flex-direction: row-reverse;">
     <img src="https://github-readme-stats.vercel.app/api?username=BrayamBarros&show_icons=true&theme=dark">
   </div>
   <div style="flex-direction: column;">
