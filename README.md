@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="README.css">
+    <title>Document</title>
+</head>
+<body>
+
 <p class="center"><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ_NIJ7WGFk5xdvRznHMJQo4jqwdXLI7gNQhcoao14PAtPJTWTir79YwfxyPkYcTXi-E6W2iFwx8Nu_ny9k3hZZCvCViQ=w1323-h939"></p>
 
 <p class="center"><img src="https://github-readme-stats.vercel.app/api?username=BrayamBarros&show_icons=true&theme=dark"></p>
@@ -14,3 +25,6 @@
 <a href="https://linkedin.com/in/brayambarros"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.linktr.ee/brayambarros"><img src="https://img.shields.io/badge/-Portfólio-white?style=for-the-badge&&logo=linktree&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+
+</body>
+</html>
