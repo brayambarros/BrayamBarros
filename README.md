@@ -3,7 +3,7 @@
 </p>
 <p>
   <td>
-    <div style="display: flex;">
+    <div style="display: flex; flex-direction: column;">
       <div style="background-color: blue; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=BrayamBarros&show_icons=true&theme=dark">
       </div>
