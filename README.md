@@ -3,6 +3,9 @@
 </p>
 <p>
   <td>
+    <div style="display: flex;">
+      <div style="background-color: blue; width: 50%;">Div 1</div>
+      <div style="background-color: red; width: 50%;">Div 2</div>
       <div>
       <img src="https://github-readme-stats.vercel.app/api?username=BrayamBarros&show_icons=true&theme=dark">
       </div>
@@ -13,8 +16,10 @@
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
       <img src="https://img.shields.io/badge/Batch-black?style=for-the-badge&logo=shell&logoColor=white" style="margin-bottom: 4px;" height="30px">
       </div>
+    </div>
   </td>
 <p/>
+
 <p>
   <a href="https://linkedin.com/in/brayambarros">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
