@@ -1,4 +1,4 @@
-<p><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOSOWYny-3y-46IroPdAy8Uc_24MYBE1-KOYrLLLRcmkLQAHMIW8yHoJPawzknelfuKaXK4q8_y7CoZnkPC7NnWqnEtyFg=w1878-h939"><p>
+<p><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ_NIJ7WGFk5xdvRznHMJQo4jqwdXLI7gNQhcoao14PAtPJTWTir79YwfxyPkYcTXi-E6W2iFwx8Nu_ny9k3hZZCvCViQ=w1323-h939"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=BrayamBarros&show_icons=true&theme=dark"><p>
 
