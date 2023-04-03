@@ -19,11 +19,13 @@
   </div>
 </div>
 
-<p>
-  <a href="https://linkedin.com/in/brayambarros">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-  <a href="https://www.linktr.ee/brayambarros">
-    <img src="https://img.shields.io/badge/-Portfólio-white?style=for-the-badge&&logo=linktree&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank">
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/brayambarros">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank">
+    </a>
+    <a href="https://www.linktr.ee/brayambarros">
+      <img src="https://img.shields.io/badge/-Portfólio-white?style=for-the-badge&&logo=linktree&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank">
+    </a>
+  </p>
+</div>
