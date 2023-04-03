@@ -1,6 +1,4 @@
-<p>
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQ_NIJ7WGFk5xdvRznHMJQo4jqwdXLI7gNQhcoao14PAtPJTWTir79YwfxyPkYcTXi-E6W2iFwx8Nu_ny9k3hZZCvCViQ=w1323-h939">
-</p>
+# Brayam Campos de Barros
 
 <div style="display: flex;">
   <div style="flex-direction: column;">
