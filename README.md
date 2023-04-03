@@ -1,5 +1,7 @@
 
-<h1 align="center">Seja bem vindo ao meu Github</h1>
+<h1 align="center">
+  Seja bem vindo ao meu Github
+</h1>
 
 
 <div style="display: flex;">
@@ -30,4 +32,6 @@
   </p>
 </div>
 
+<h1 align="center">
 ![Logo](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQv3Fffnf-moHodfnRMyZE9hinoyiFBryxjZiYoatQPTHFiI0bi-EVb0bd4PetEg6324Cfg8rSCJhNKIpDjb6AEDOAeeQ=w1879-h939)
+</h1>
