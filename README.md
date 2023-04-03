@@ -1,6 +1,6 @@
-<div align="center">
+
 # Brayam Campos de Barros
-</div>
+
 
 <div style="display: flex;">
   <div style="flex-direction: column;">
