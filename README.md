@@ -1,5 +1,5 @@
 
-<h1 aligh="Center">Brayam Campos de Barros</h1>
+<h1 align="center">Brayam Campos de Barros</h1>
 
 
 <div style="display: flex;">
