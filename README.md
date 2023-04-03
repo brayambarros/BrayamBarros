@@ -33,5 +33,5 @@
 </div>
 
 <div align="center">
-![Logo](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQv3Fffnf-moHodfnRMyZE9hinoyiFBryxjZiYoatQPTHFiI0bi-EVb0bd4PetEg6324Cfg8rSCJhNKIpDjb6AEDOAeeQ=w1879-h939)
+<img src="[https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQv3Fffnf-moHodfnRMyZE9hinoyiFBryxjZiYoatQPTHFiI0bi-EVb0bd4PetEg6324Cfg8rSCJhNKIpDjb6AEDOAeeQ=w1879-h939)">
 </div>
