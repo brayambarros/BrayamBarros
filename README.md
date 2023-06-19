@@ -17,6 +17,8 @@
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
       <img src="https://img.shields.io/badge/Batch-black?style=for-the-badge&logo=shell&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    </div>
+    <div style="flex-direction: column;">
       <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" style="margin-bottom: 4px;" height="30px">
       <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 4px;" height="30px">
     </div>
