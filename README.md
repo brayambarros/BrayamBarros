@@ -33,5 +33,3 @@
     </a>
   </p>
 </div>
-
-![LOGO](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOQv3Fffnf-moHodfnRMyZE9hinoyiFBryxjZiYoatQPTHFiI0bi-EVb0bd4PetEg6324Cfg8rSCJhNKIpDjb6AEDOAeeQ=w1879-h939)
