@@ -3,6 +3,11 @@
   Seja bem vindo ao meu Github
 </h1>
 
+<p>
+     <a href="linkdolinkedin">![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/bf66bb6a-cc94-4316-8803-d80de7ba12db)
+      </a>
+</p>
+
 
 <div style="display: flex;">
   <div style="flex-direction: column;">
