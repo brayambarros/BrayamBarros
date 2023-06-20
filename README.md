@@ -3,7 +3,8 @@
   Seja bem vindo ao meu Github
 </h1>
 
-[anigif](https://github.com/brayambarros/brayambarros/assets/44656670/bf66bb6a-cc94-4316-8803-d80de7ba12db)
+![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
+
 
 
 <div style="display: flex;">
