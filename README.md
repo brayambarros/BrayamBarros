@@ -3,8 +3,11 @@
   Seja bem vindo ao meu Github
 </h1>
 
+<div align="center">
+  <p>
 ![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
-
+  </p>
+</div>
 <div style="display: flex;">
   <div style="flex-direction: column;">
     <div align="center">
