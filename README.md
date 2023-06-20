@@ -9,6 +9,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusleitecosta1/">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/92338016/247196957-f68546c3-a627-4941-a3fe-14df030be983.gif" alt="MyName">
+  </a>
+</p>
+
 <div style="display: flex;">
   <div style="flex-direction: column;">
     <div align="center">
