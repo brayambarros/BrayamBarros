@@ -4,7 +4,7 @@
 </h1>
 <p>
      <a href="linkdolinkedin">
-![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
+<img "imagem">![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
     </a>
 </p>
 
