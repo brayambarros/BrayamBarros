@@ -2,13 +2,8 @@
 <h1 align="center">
   Seja bem vindo ao meu Github
 </h1>
-<p>
-     <a href="linkdolinkedin">
-<img "imagem">![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
-    </a>
-</p>
 
-
+![anigif](https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a)
 
 <div style="display: flex;">
   <div style="flex-direction: column;">
