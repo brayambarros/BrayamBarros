@@ -2,9 +2,10 @@
 <h1 align="center">
   Seja bem vindo ao meu Github
 </h1>
+
 <p align="center">
-  <a href="https://www.linktr.ee/brayambarros/">
-    <img src="https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a" alt="MyName">
+  <a href="https://www.linkedin.com/in/brayambarros/">
+  <img src="https://github.com/brayambarros/brayambarros/assets/44656670/124482cf-ca40-4320-9b67-b271b595d52a" alt="MyName">
   </a>
 </p>
 
