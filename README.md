@@ -3,6 +3,32 @@
   Seja bem vindo ao meu Github
 </h1>
 
+<h1 align="center">
+  <span style="color: #00FF00; animation: rainbow 2s infinite;">B</span>
+  <span style="color: #00FF00; animation: rainbow 2.2s infinite;">R</span>
+  <span style="color: #00FF00; animation: rainbow 2.4s infinite;">A</span>
+  <span style="color: #00FF00; animation: rainbow 2.6s infinite;">Y</span>
+  <span style="color: #00FF00; animation: rainbow 2.8s infinite;">A</span>
+  <span style="color: #00FF00; animation: rainbow 3s infinite;">M</span>
+  <span style="color: #00FF00; animation: rainbow 3.2s infinite;">&nbsp;</span>
+  <span style="color: #00FF00; animation: rainbow 3.4s infinite;">B</span>
+  <span style="color: #00FF00; animation: rainbow 3.6s infinite;">A</span>
+  <span style="color: #00FF00; animation: rainbow 3.8s infinite;">R</span>
+  <span style="color: #00FF00; animation: rainbow 4s infinite;">R</span>
+  <span style="color: #00FF00; animation: rainbow 4.2s infinite;">O</span>
+  <span style="color: #00FF00; animation: rainbow 4.4s infinite;">S</span>
+</h1>
+
+<style>
+@keyframes rainbow {
+  0% { color: #00FF00; }
+  25% { color: #FF0000; }
+  50% { color: #0000FF; }
+  75% { color: #FFFF00; }
+  100% { color: #00FF00; }
+}
+</style>
+
 
 <div style="display: flex;">
   <div style="flex-direction: column;">
