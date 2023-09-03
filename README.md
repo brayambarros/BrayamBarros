@@ -1,7 +1,3 @@
-<h1 align="center">Hi, Welcome to my profile!!</h1>
-
-###
-
 <div align="center">
   <img height="200" src="https://github.com/brayambarros/brayambarros/assets/44656670/ec2dce09-8671-4978-9094-a783332ec101"  />
 </div>
